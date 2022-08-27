@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.head-1 {
+    text-align: center;
+    margin: 50px 0;
+}
+
