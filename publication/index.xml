@@ -2,53 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jun Iwamoto</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://junffy.github.io/publication/</link>
+      <atom:link href="https://junffy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://junffy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://junffy.github.io/publication/</link>
     </image>
     
     <item>
+      <title>CONTROL DEVICE, VEHICLE CONTROL METHOD AND COMPUTER-READABLE STORAGE MEDIUM</title>
+      <link>https://junffy.github.io/publication/patent3/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://junffy.github.io/publication/patent3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INFOMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, STORAGE MEDIUM ON WHICH AN INFORMATION AN INFORMATION PROCESSING PROCESSING PROGRAM IS STORED, AND VEHICLE</title>
+      <link>https://junffy.github.io/publication/patent2/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://junffy.github.io/publication/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAVIGATION DEVICE, NAVIGATION SYSTEM, NAVIGATION METHOD, AND STORAGE MEDIUM STORING NAVIGATION PROGRAM</title>
+      <link>https://junffy.github.io/publication/patent1/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://junffy.github.io/publication/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daisy-chained Systolic Array and Reconfigurable Memory Space for Narrow Memory Bandwidth</title>
-      <link>https://example.com/publication/ieice-2020/</link>
+      <link>https://junffy.github.io/publication/ieice-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieice-2020/</guid>
+      <guid>https://junffy.github.io/publication/ieice-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CGRA Cascading for Narrow Memory Bandwidth and Low Cost</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://junffy.github.io/publication/xsig2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://junffy.github.io/publication/xsig2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of a Chained Systolic Array with High-Speed Links</title>
-      <link>https://example.com/publication/csa2019/</link>
+      <link>https://junffy.github.io/publication/csa2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/csa2019/</guid>
+      <guid>https://junffy.github.io/publication/csa2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ユニット内フィードバックによるリニアアレイの多重ループ対応手法</title>
-      <link>https://example.com/publication/gaia2018/</link>
+      <link>https://junffy.github.io/publication/gaia2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gaia2018/</guid>
+      <guid>https://junffy.github.io/publication/gaia2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>並列化によるCIP法の音波伝搬解析の高速化</title>
-      <link>https://example.com/publication/kansai2018/</link>
+      <link>https://junffy.github.io/publication/kansai2018/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kansai2018/</guid>
+      <guid>https://junffy.github.io/publication/kansai2018/</guid>
       <description></description>
     </item>
     
